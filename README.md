@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of piwind/oauth-microsoft.** Not for installation: use [Packagist](https://packagist.org/packages/piwind/oauth-microsoft) or the [upstream repository](https://github.com/piwind/flarum-ext-oauth-microsoft).
 
-**0** versions archived · Latest: [`v1.0.4`](https://github.com/flarchive/piwind-oauth-microsoft/tree/archive/v1.0.4) · License: `MIT` · Flarum: `^1.2.0`
+**3** versions archived · Latest: [`v1.0.4`](https://github.com/flarchive/piwind-oauth-microsoft/tree/archive/v1.0.4) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.2` | 2025-05-12 | `^1.2.0` | [Browse](https://github.com/flarchive/piwind-oauth-microsoft/tree/archive/v1.0.2) |
+| `v1.0.3` | 2025-05-12 | `^1.2.0` | [Browse](https://github.com/flarchive/piwind-oauth-microsoft/tree/archive/v1.0.3) |
+| `v1.0.4` | 2025-05-12 | `^1.2.0` | [Browse](https://github.com/flarchive/piwind-oauth-microsoft/tree/archive/v1.0.4) |
 
 Catalog entry: [packages/piwind-oauth-microsoft.json](https://github.com/flarchive/archive-index/blob/main/packages/piwind-oauth-microsoft.json)
 
